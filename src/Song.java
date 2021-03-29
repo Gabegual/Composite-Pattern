@@ -1,5 +1,5 @@
 
-public class Song {
+public class Song implements IComponent {
 	
 	public String songName;
 	public String artist;
